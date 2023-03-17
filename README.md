@@ -22,3 +22,6 @@
 + 본 작품이 차후 이루어질 금융 상품 매매 전략에 관한 연구에 기여
 + 금융 분야에서 상품 판매 영업 및 상품 설계에 도움
 + 금융상품의 가격변동에 적절히 대응하면서 예측 가능한 금융상품시장 형성
+
+![image](https://user-images.githubusercontent.com/82591396/225825382-f3878b40-6af8-4b82-a4f9-c417727409b5.png)
+![image](https://user-images.githubusercontent.com/82591396/225825448-efe3779e-4331-471c-9566-d702e259e5eb.png)
