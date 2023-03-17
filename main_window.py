@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 21 02:58:05 2022
 
-@author: Mgyu
-"""
 import sys
 import urllib.request
 from PyQt5.QtWidgets import *
