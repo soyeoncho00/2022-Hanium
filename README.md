@@ -1,4 +1,5 @@
 # 2022-Hanium
+![image](https://user-images.githubusercontent.com/82591396/225834370-af027402-7dfc-4872-8305-d125c3148e0b.png)
 
 ## 프로젝트명
 파이선을 이용한 금융상품 가격 예측 서비스 구현
